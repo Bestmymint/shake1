@@ -1,0 +1,33 @@
+
+body{
+    background-color: rgb(0, 0, 0);
+}
+.hidden{
+    display: none;
+    justify-content: center;
+}
+.hiddenn{
+    display: none;
+}
+.pic{
+    display: none;
+    
+}
+.score{
+    
+    color: antiquewhite;
+}
+.hidden{
+    font-size: 5px;
+    color: antiquewhite;
+}
+.button{
+    justify-content: center;
+    text-align: center; /* Center the content horizontally */
+    
+}
+#requestPermBtn{
+    
+    font-size: 20px;
+    
+}
